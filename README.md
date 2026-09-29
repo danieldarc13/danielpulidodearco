@@ -2,7 +2,7 @@
 
 My personal website and solutions portfolio. I'm an **Microsoft 365, Power Platform & Copilot Specialist** based in Montreal, and this site brings together my experience, certifications and the solutions I have delivered with Microsoft 365, Power Platform, Copilot and enterprise integration.
 
-🔗 **Live site:** https://danielpulidodearco.github.io
+🔗 **Live site:** https://danieldarc13.github.io/danielpulidodearco/
 💼 **LinkedIn:** https://www.linkedin.com/in/ddpd/
 ✉️ **Email:** danielpulidodearco@live.com
 
